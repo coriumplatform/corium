@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/corium_bg.qm</file>
+        <file alias="ca">locale/corium_ca.qm</file>
+        <file alias="cs">locale/corium_cs.qm</file>
+        <file alias="da">locale/corium_da.qm</file>
+        <file alias="de">locale/corium_de.qm</file>
+        <file alias="en">locale/corium_en.qm</file>
+        <file alias="en_US">locale/corium_en_US.qm</file>
+        <file alias="es">locale/corium_es.qm</file>
+        <file alias="fi">locale/corium_fi.qm</file>
+        <file alias="fr_FR">locale/corium_fr_FR.qm</file>
+        <file alias="hr">locale/corium_hr.qm</file>
+        <file alias="it">locale/corium_it.qm</file>
+        <file alias="ja">locale/corium_ja.qm</file>
+        <file alias="ko_KR">locale/corium_ko_KR.qm</file>
+        <file alias="nl">locale/corium_nl.qm</file>
+        <file alias="pl">locale/corium_pl.qm</file>
+        <file alias="pt">locale/corium_pt.qm</file>
+        <file alias="pt_BR">locale/corium_pt_BR.qm</file>
+        <file alias="ro_RO">locale/corium_ro_RO.qm</file>
+        <file alias="ru">locale/corium_ru.qm</file>
+        <file alias="sk">locale/corium_sk.qm</file>
+        <file alias="sv">locale/corium_sv.qm</file>
+        <file alias="tr">locale/corium_tr.qm</file>
+        <file alias="uk">locale/corium_uk.qm</file>
+        <file alias="zh_CN">locale/corium_zh_CN.qm</file>
+        <file alias="zh_TW">locale/corium_zh_TW.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Corium
+Comment=Corium P2P Cryptocurrency
+Comment[fr]=Corium, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Corium, eşten eşe kriptografik sanal para birimi
+Exec=corium-qt %u
+Terminal=false
+Type=Application
+Icon=corium128
+MimeType=x-scheme-handler/corium;
+Categories=Office;Finance;

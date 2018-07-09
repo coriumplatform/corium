@@ -1,0 +1,26 @@
+# /etc/conf.d/coriumd: config file for /etc/init.d/coriumd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/corium/corium.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/coriumd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/coriumd.pid"
+
+# Where to write coriumd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/coriumd"
+
+# User and group to own coriumd process
+#BITCOIND_USER="corium"
+#BITCOIND_GROUP="corium"
+
+# Path to coriumd executable
+#BITCOIND_BIN="/usr/bin/coriumd"
+
+# Nice value to run coriumd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
